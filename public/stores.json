@@ -1,0 +1,84 @@
+{
+  "stores": [
+    {
+      "title": "Hotel Bawarchi",
+      "discount": "5% OFF",
+      "category": "restaurants",
+      "logo": "../public/images/bawarchi.png",
+      "coordinates": {
+        "longitude": 78.56759883463432,
+        "latitude": 17.446004643581432
+      }
+    },
+    {
+      "title": "DSL Mall",
+      "discount": "Buy 1 Get 1",
+      "category": "clothing",
+      "logo": "../public/images/dsl.png",
+      "coordinates": {
+        "longitude": 78.55501991882699,
+        "latitude": 17.400153930845846
+      }
+    },
+    {
+      "title": "Anutex Shopping",
+      "discount": "20% OFF",
+      "category": "clothing",
+      "logo": "../public/images/anutex.png",
+      "coordinates": {
+        "longitude": 78.59354301984007,
+        "latitude": 17.40649306818637
+      }
+    },
+    {
+      "title": "Reliance Digital",
+      "discount": "25% OFF",
+      "category": "electronics",
+      "logo": "../public/images/reliance.png",
+      "coordinates": {
+        "longitude": 78.55331125993126,
+        "latitude": 17.43027307224754
+      }
+    },
+    {
+      "title": "Big C",
+      "discount": "40% OFF",
+      "category": "electronics",
+      "logo": "../public/images/bigC.png",
+      "coordinates": {
+        "longitude": 78.54357429129088,
+        "latitude": 17.416880304730473
+      }
+    },
+    {
+      "title": "Heritage Fresh",
+      "discount": "34% OFF",
+      "category": "groceries",
+      "logo": "../public/images/heritage.png",
+      "coordinates": {
+        "longitude": 78.58550076243763,
+        "latitude": 17.413756201676264
+      }
+    },
+    {
+      "title": "Cafe Bahar",
+      "discount": "14% OFF",
+      "category": "restaurants",
+      "logo": "../public/images/bahar.png",
+      "coordinates": {
+        "longitude": 78.54300974306432,
+        "latitude": 17.339371334663635
+      }
+    },
+    {
+      "title": "Jewel of Nizam",
+      "discount": "30% OFF",
+      "category": "restaurants",
+      "logo": "../public/images/nizam.png",
+      "coordinates": {
+        "longitude": 78.31609745604955,
+        "latitude": 17.38848585341889
+      }
+    }
+  ]
+}
